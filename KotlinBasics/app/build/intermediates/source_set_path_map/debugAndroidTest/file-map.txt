@@ -1,0 +1,6 @@
+com.amisadman.kotlinbasics.test.app-annotation-experimental-1.4.0-0 C:\Users\Sadman Islam\.gradle\caches\transforms-3\0b8fb981de56eb0d057f71d703ae66f6\transformed\annotation-experimental-1.4.0\res
+com.amisadman.kotlinbasics.test.app-core-1.5.0-1 C:\Users\Sadman Islam\.gradle\caches\transforms-3\95afcc5974bf487af59f06c0f0573e72\transformed\core-1.5.0\res
+com.amisadman.kotlinbasics.test.app-androidTest-2 C:\Users\Sadman Islam\AndroidStudioProjects\KotlinBasics\app\build\generated\res\resValues\androidTest\debug
+com.amisadman.kotlinbasics.test.app-mergeDebugAndroidTestResources-3 C:\Users\Sadman Islam\AndroidStudioProjects\KotlinBasics\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.amisadman.kotlinbasics.test.app-mergeDebugAndroidTestResources-4 C:\Users\Sadman Islam\AndroidStudioProjects\KotlinBasics\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.amisadman.kotlinbasics.test.app-merged_res-5 C:\Users\Sadman Islam\AndroidStudioProjects\KotlinBasics\app\build\intermediates\merged_res\debugAndroidTest

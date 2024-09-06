@@ -1,0 +1,3 @@
+com.amisadman.kotlinbasics.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
