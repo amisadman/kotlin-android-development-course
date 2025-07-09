@@ -14,9 +14,9 @@ Welcome to my Android Development Journey! This repository will track my progres
 |---------|-------|--------|
 | 1 | Setting Everything Up | ![Completed](https://img.shields.io/badge/Completed%20-%20green) |
 | 2 | Rock Paper Scissors and Kotlin Basics | ![Completed](https://img.shields.io/badge/Completed%20-%20green) |
-| 3 | Functions, Objects, and Coffee Machines | ![In Progress](https://img.shields.io/badge/In%20Progress%20-%20bright%20green) |
-| 4 | Lists and Objects | ![Not Started](https://img.shields.io/badge/Not%20Started-grey) |
-| 5 | Our First App - Unit Converter | ![Not Started](https://img.shields.io/badge/Not%20Started-grey) |
+| 3 | Functions, Objects, and Coffee Machines |  ![Completed](https://img.shields.io/badge/Completed%20-%20green) |
+| 4 | Lists and Objects | ![Completed](https://img.shields.io/badge/Completed%20-%20green) |
+| 5 | Our First App - Unit Converter | ![In Progress](https://img.shields.io/badge/In%20Progress%20-%20bright%20green) |
 | 6 | Unit Converter Part 2 and Understanding State | ![Not Started](https://img.shields.io/badge/Not%20Started-grey) |
 | 7 | Shopping List App - Learning Loads of UI Features | ![Not Started](https://img.shields.io/badge/Not%20Started-grey) |
 | 8 | MVVM - Model View ViewModel - Architecture - Counter App Part 2 | ![Not Started](https://img.shields.io/badge/Not%20Started-grey) |
